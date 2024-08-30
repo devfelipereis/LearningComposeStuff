@@ -1,6 +1,4 @@
-# Project Name
-
-A repository to test jetpack compose stuff.
+### A repository to test jetpack compose stuff.
 
 ---
 
