@@ -6,6 +6,9 @@ A repository to test jetpack compose stuff.
 
 ## Demos
 
-![brush](app/src/main/java/dev/felipereis/learningcomposestuff/brush/brush.gif)
-![ConstraintLayout](app/src/main/java/dev/felipereis/learningcomposestuff/constraintLayout/ConstraintLayoutExample.png)
-![drawWithContent](app/src/main/java/dev/felipereis/learningcomposestuff/drawWithContent/drawWithContent-BoxWithRectangles.gif)
+| brush |  ConstraintLayout |  drawWithContent |   |   |
+|-------|---|---|---|---|
+|    ![brush](app/src/main/java/dev/felipereis/learningcomposestuff/brush/brush.gif)   |  ![ConstraintLayout](app/src/main/java/dev/felipereis/learningcomposestuff/constraintLayout/ConstraintLayoutExample.png) |  ![drawWithContent](app/src/main/java/dev/felipereis/learningcomposestuff/drawWithContent/drawWithContent-BoxWithRectangles.gif) |   |   |
+
+
+
